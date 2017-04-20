@@ -1,0 +1,6 @@
+node_modules
+custom_typings
+scripts
+.vscode
+.idea
+.DS_STORE
